@@ -1,2 +1,8 @@
 # RL_Lib
-a library for learn games via PPO algorithm
+
+A lightweight, installable Reinforcement Learning library using PPO.
+
+### 📦 Installation
+```bash
+pip install -e .
+
